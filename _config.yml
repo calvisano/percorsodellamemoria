@@ -12,7 +12,7 @@ url:               "https://calvisano.github.io/percorsodellamemoria"
 
 # Build settings
 markdown:          kramdown
-paginate:          5
+paginate:          11
 paginate_path:     "/posts/page:num/"
 plugins:
   - jekyll-feed
