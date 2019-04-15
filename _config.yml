@@ -1,1 +1,19 @@
-theme: jekyll-theme-cayman
+title:             Percorso della Memoria
+email:             your-email@example.com
+#description:       A Blog Theme by Start Bootstrap
+author:            Calvisano
+baseurl:           "/"
+url:               "https://calvisano.github.io/percorsodellamemoria"
+
+# Social Profiles
+#twitter_username:  SBootstrap
+#github_username:   BlackrockDigital
+#facebook_username: StartBootstrap
+
+# Build settings
+markdown:          kramdown
+paginate:          5
+paginate_path:     "/posts/page:num/"
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
