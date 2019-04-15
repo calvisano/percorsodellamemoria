@@ -5,6 +5,7 @@ author:            Calvisano
 baseurl:           "/"
 url:               "https://calvisano.github.io/percorsodellamemoria"
 
+permalink: /:title/
 # Social Profiles
 #twitter_username:  SBootstrap
 #github_username:   BlackrockDigital
