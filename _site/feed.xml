@@ -1,7 +1,8 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-04-23T00:59:07+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Percorso della Memoria</title><author><name>Percorso della Memoria</name></author><entry><title type="html">Mario Medeghini</title><link href="http://localhost:4000/mariomedeghini/" rel="alternate" type="text/html" title="Mario Medeghini" /><published>2017-10-27T05:45:13+02:00</published><updated>2017-10-27T05:45:13+02:00</updated><id>http://localhost:4000/mariomedeghini</id><content type="html" xml:base="http://localhost:4000/mariomedeghini/">&lt;audio controls&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-04-23T01:01:18+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Percorso della Memoria</title><author><name>Percorso della Memoria</name></author><entry><title type="html">Mario Medeghini</title><link href="http://localhost:4000/mariomedeghini/" rel="alternate" type="text/html" title="Mario Medeghini" /><published>2017-10-27T05:45:13+02:00</published><updated>2017-10-27T05:45:13+02:00</updated><id>http://localhost:4000/mariomedeghini</id><content type="html" xml:base="http://localhost:4000/mariomedeghini/">&lt;audio controls&gt;
 &lt;source src=&quot;../audio/MarioMedeghini.mp3&quot; type=&quot;audio/mpeg&quot;&gt;
   Your browser does not support the audio element.
 &lt;/audio&gt;
+&lt;br&gt;
 &lt;h2&gt;Biografia&lt;/h2&gt;
 &lt;p&gt;Mario nasce il 16/11/1923 a Calvisano, figlio di Albino e di Pierina Mascoli. In famiglia sono nove fratelli.&lt;br&gt;
   Mario non è sposato. Fa il contadino ed è un gran lavoratore. Lavora come mezzadro a Mezzane. Parte per la guerra e viene inviato a Cefalonia.&lt;br&gt;
@@ -11,6 +12,7 @@
 &lt;source src=&quot;../audio/AntonioFirmoPolesini.mp3&quot; type=&quot;audio/mpeg&quot;&gt;
   Your browser does not support the audio element.
 &lt;/audio&gt;
+&lt;br&gt;
 &lt;h2&gt;Biografia&lt;/h2&gt;
 &lt;p&gt;Antonio nasce il 08/08/1904 a Calvisano, figlio di Girolamo e di Angela Conti. Si sposa con Adele Busseni il 28/01/1943.&lt;br&gt;
   Arruolato come brigadiere dei Carabinieri, viene catturato sul fronte greco, a Tebe, in Attica, il 17/09/1943. Viene internato nel distretto militare V/C Villingen in Germania.&lt;br&gt;
@@ -23,6 +25,7 @@
 &lt;source src=&quot;../audio/DanieleZani.mp3&quot; type=&quot;audio/mpeg&quot;&gt;
   Your browser does not support the audio element.
 &lt;/audio&gt;
+&lt;br&gt;
 &lt;h2&gt;Biografia&lt;/h2&gt;
 &lt;p&gt;Daniele nasce a Calvisano il 9 ottobre 1923. I suoi genitori sono Battista e Giulia Savoldi. Nel 1936 risulta prosciolto dall’obbligo scolastico, poi lavora come operaio presso l’officina Cibaldi a Brescia. Subisce un infortunio sul lavoro, si fa male ad una gamba. A causa di questa ferita a Daniele viene rilasciato un certificato medico che lo dichiara non idoneo al combattimento, ma lui decide di partire ugualmente per la guerra. Organizza una merenda con i suoi amici per salutarli, prima della sua partenza. Alla stazione a salutarlo c’è anche il suo nipotino, Daniele lo abbraccia stretto stretto, prima di partire. Viene inviato sul fronte greco, a Cefalonia. Sopravvissuto all’eccidio della Divisione Acqui, Daniele viene imbarcato (o meglio stivato) con altri 840 soldati italiani sul piroscafo Ardena il 28 settembre 1943. L’Ardena è un piroscafo greco che era stato affondato nel 1941, ma che viene rimesso a galla e riparato in qualche modo per destinarlo al trasporto dei militari prigionieri da trasportare nei campi di lavoro in Germania. L’Ardena parte da Argostoli con il suo carico umano, ma a circa un miglio dalla costa entra in collisione con una mina sganciata da un aereo anglo-americano e affonda in pochi minuti. Daniele muore insieme ad altri 720 soldati italiani. L’allora vigile Facchini, in servizio presso il Comune di Calvisano, porterà alla famiglia la tragica notizia della sua morte.
 &lt;/p&gt;
@@ -30,6 +33,7 @@
 &lt;source src=&quot;../audio/EsterinoGaluppini.mp3&quot; type=&quot;audio/mpeg&quot;&gt;
   Your browser does not support the audio element.
 &lt;/audio&gt;
+&lt;br&gt;
 &lt;h2&gt;Biografia&lt;/h2&gt;
 &lt;p&gt;Esterino nasce il 27/10/1923 a Calvisano, figlio di Pietro e Maria Bassi. E' celibe, fa il contadino. Abita in via Cucca a Mezzane.&lt;br&gt;
   Arruolato come soldato nella 22esima compagnia mitraglieri dislocata sull'Isola di Rodi, viene catturato dai tedeschi e internato a Panotta, campo IV di Rodi.&lt;br&gt;
@@ -39,6 +43,7 @@
 &lt;source src=&quot;../audio/GiampietroConti.mp3&quot; type=&quot;audio/mpeg&quot;&gt;
   Your browser does not support the audio element.
 &lt;/audio&gt;
+&lt;br&gt;
 &lt;h2&gt;Biografia&lt;/h2&gt;
 &lt;p&gt;Giampietro nasce il 01/11/1924, figlio di Luigi e di Maria Zanardelli. Consegue la licenza elementare e lavora come operaio. E' celibe.&lt;br&gt;
 Viene arruolato come soldato nel 4° Reggimento Genio, dislocato a Bolzano. Viene catturato dai tedeschi dopo l'8 Settembre e internato nei lager di Delizzen e Hannover. &lt;br&gt;
@@ -50,6 +55,7 @@ Attualmente è sepolto ad Amburgo, presso il cimitero militare d'onore, posizion
 &lt;source src=&quot;../audio/GiovanniBellini.mp3&quot; type=&quot;audio/mpeg&quot;&gt;
   Your browser does not support the audio element.
 &lt;/audio&gt;
+&lt;br&gt;
 &lt;h2&gt;Biografia&lt;/h2&gt;
 &lt;p&gt;Giovanni nasce a Malpaga il 9 gennaio 1921. E’ figlio di Battista e di Angela Merenda. La sua è una famiglia numerosa di contadini che lavorano i terreni intorno alla loro cascina, in via Belvedere.&lt;br&gt;
 Parte per la guerra, arruolato nel 38° Corpo Controcarro. Anche suo fratello Giuseppe è in guerra. &lt;br&gt;
@@ -61,6 +67,7 @@ Dalle lettere che riceve da casa apprende con gioia la notizia che suo fratello 
 &lt;source src=&quot;../audio/GiovanniMori.mp3&quot; type=&quot;audio/mpeg&quot;&gt;
   Your browser does not support the audio element.
 &lt;/audio&gt;
+&lt;br&gt;
 &lt;h2&gt;Biografia&lt;/h2&gt;
 &lt;p&gt;Giovanni nasce il 15 dicembre 1912 a Calvisano nella casa di famiglia in via Umberto I (oggi via Roma). E’ figlio di Teodoro e di Cristina Maccarini. Dopo la sorella Ester è il più grande dei suoi fratelli. In famiglia è chiamato “il gigante buono” per la sua statura imponente, infatti è alto un metro e novanta. Parte per il servizio militare come fante del 68° reggimento Fanteria. Il 14 marzo 1940 parte dal Distretto militare di Brescia e, dopo tre giorni e tre notti di viaggio, arriva a Sciacca, in Sicilia. Nelle sue lettere descrive i luoghi e racconta ciò che fa: il clima non è buono, è ventoso e alterna momenti di troppo caldo o troppo freddo, facendo spesso ammalare i soldati, anche di malaria. Il 30 maggio 1940 scrive che è in marcia per una nuova destinazione, si ferma alcuni giorni a Palermo, poi è ad Agrigento. I soldati sono così tanti che devono dormire sui pavimenti delle chiese. &lt;br&gt;
 Alla fine di ottobre 1942 si trova a Vercelli, ma è in partenza per la Grecia; nel suo lungo viaggio, compiuto su treni chiusi, passa anche da Brescia: sua sorella Ester lo aspetta alla stazione di Brescia per salutarlo, ma l’affollamento e i rumori impediscono a Giovanni di sentire la voce della sorella che lo chiama. Il 26 novembre 1942 giunge a destinazione: il viaggio in alcuni tratti viene compiuto a piedi. Doveva durare otto giorni, invece ne servono venti per attraversare la Dalmazia, la Serbia e la Bulgaria per poi giungere in Grecia.  I ritardi sono dovuti ad incidenti ferroviari e a tappe obbligate nei vari comandi militari lungo il percorso per gli approvvigionamenti. Gino viene destinato al presidio militare posto su un’isola dalla quale deve sorvegliare la costa. Scrive a casa che la gente del posto è dedita al contrabbando e che i rapporti con i civili sono distanti e improntati alla prudenza. Il 10 agosto 1943 Giovanni scrive l’ultima lettera dalla Grecia: dopo l’8 settembre viene catturato dai tedeschi e internato a Remn (Bessarabia-Russia) nel campo 38. &lt;br&gt;
@@ -74,6 +81,7 @@ Il 9 aprile 1945 Giovanni muore a causa di una polmonite. Viene sepolto presso i
 &lt;source src=&quot;../audio/GiovanniSerafini.mp3&quot; type=&quot;audio/mpeg&quot;&gt;
   Your browser does not support the audio element.
 &lt;/audio&gt;
+&lt;br&gt;
 &lt;h2&gt;Biografia&lt;/h2&gt;
 &lt;p&gt;Giovanni nasce a Calvisano il 25 agosto 1911. Suo padre, Paolo, fa il casaro mentre la madre, Maria Pasotti, è una maestra. A soli otto anni Giovanni rimane orfano di mamma, insieme ai fratelli Antonietta e Francesco. Frequenta la scuola elementare e poi prosegue gli studi presso l’istituto tecnico “Nicolò Tartaglia” a Brescia. Poiché i trasporti sono difficoltosi, Giovanni viene messo a pensione presso la famiglia del maestro Turra, di origini calvisanesi. Nel 1931 consegue il diploma di geometra e ben presto comincia ad esercitare la professione. Nel 1933 dirige i lavori della costruzione della scuola elementare di Mezzane e nel 1934 diventa tecnico comunale. Viene il tempo del servizio militare e, nel 1936, Giovanni è a Tirano alla scuola per ufficiali dove consegue il grado di sottotenente e poi di capitano.  Scrive a casa dicendo che pensa di essere prossimo al congedo, ma viene trattenuto per urgenti necessità del Comando e il congedo per lui non arriverà più: la guerra si avvicina.&lt;br&gt;
 Negli anni della guerra Giovanni scrive numerose lettere dalle sue diverse destinazioni; il 17 aprile 1943 scrive per la prima volta da Cefalonia dove si trova con la sua divisione, la Divisione Acqui. Scrive “Finalmente anche io sono arrivato a destinazione e vi scrivo dal mio reparto. Mi trovo ben sistemato in un paesino tipicamente mediterraneo”.
@@ -93,6 +101,7 @@ Suo fratello Francesco compone per lui una poesia e un’epigrafe che si può le
 &lt;source src=&quot;../audio/GiuseppeFacchini.mp3&quot; type=&quot;audio/mpeg&quot;&gt;
   Your browser does not support the audio element.
 &lt;/audio&gt;
+&lt;br&gt;
 &lt;h2&gt;Biografia&lt;/h2&gt;
 &lt;p&gt;Giuseppe nasce il 23/02/1921 a Calvisano, figlio di Giuseppe e Dosolina Bignotti. Consegue la licenza elementare e lavora come operario. E' celibe.&lt;br&gt;
   Arruolato come aviere nell'Aeronautica Militare, si trova in servizio presso l'aeroporto di Bologna alla firma dell'armistizio.&lt;br&gt;
@@ -103,6 +112,7 @@ Suo fratello Francesco compone per lui una poesia e un’epigrafe che si può le
 &lt;source src=&quot;../audio/GiuseppeMalpetti.mp3&quot; type=&quot;audio/mpeg&quot;&gt;
   Your browser does not support the audio element.
 &lt;/audio&gt;
+&lt;br&gt;
 &lt;h2&gt;Biografia&lt;/h2&gt;
 &lt;p&gt;Giuseppe nasce a Viadana il 2 dicembre 1921. Suo padre si chiama Pietro e sua madre Paola Parolini. E’ il terzo di nove fratelli: Enrico, Natalina, Giuseppe, Luigia, Paola, Domenica, Esterina, Teodora e Luigi. Giuseppe in famiglia viene soprannominato Pinoto. Fa il contadino. Nel mese di ottobre del 1941 viene arruolato in marina e parte per la guerra. Attraverso le numerose lettere che scrive alla mamma, al fratello Enrico, studente di Teologia, e alle sorelle, possiamo ricostruire i suoi spostamenti. All’inizio del 1942 è ad Augusta, in Sicilia, dove rimane per alcuni mesi. Nel mese di agosto è a Bari, pronto ad imbarcarsi per la Grecia.&lt;br&gt;
 
